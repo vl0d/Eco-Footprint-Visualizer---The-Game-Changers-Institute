@@ -286,25 +286,7 @@ Used in Page 3 — Diet Shift to compare:
 
 <img src= "./IMAGES/Converted KPI Measures.png" alt="Converted KPI Measures" width="400"/>
 
-**c) Environmental Reduction Measures**
-
-New measures calculate relative improvements for:
-
-    GHG
-
-    Water
-
-    Land
-
-    Biodiversity pressure
-
-Used in Page 1 — Positive Impact.
-
-Formula applied:
-
-    (Baseline – Current) ÷ Baseline
-
-<img src= "./IMAGES/Positive Impact KPI Measures.png" alt="Positive Impact KPI Measures" width="400"/>
+---
 
 **2. Tables Added**
 
@@ -344,21 +326,7 @@ This allows:
 - Fast comparison between impact, behavior, and methodology
 
 ---
-**🔄 2. Switch Between Negative & Positive Impact on Page 1**
-Page 1 contains two analytical modes located on the right side:
-
-    Negative Impact
-
-    Positive Impact
-
-How to use:
-
-- Hover over the desired mode.
-
-- Press CTRL + Click to switch views.
-
----
-**🎚️ 3. Adjust the Diet with the Plant Shift % Slider**
+**🎚️ 2. Adjust the Diet with the Plant Shift % Slider**
 
 Available on: Page 1 (Calculator) & Page 3 (Diet Shift)
 
@@ -379,7 +347,7 @@ This dynamically updates:
 - Food consumption patterns (Page 3)
 
 ---
-**👥 4. Scale the Impact with the Number of People Slider**
+**👥 3. Scale the Impact with the Number of People Slider**
 
 Available on: Page 1 (Calculator)
 
@@ -400,13 +368,9 @@ This allows simulation of:
 All environmental metrics scale automatically with this input.
 
 ---
-**🧩 5. Filter by Food Group**
+**🧩 4. Filter by Food Group**
 
-Available on:
-
-- Page 1 — Calculator
-
-- Page 3 — Diet Shift
+Available on: Page 3 — Diet Shift
 
 How to use:
 
@@ -417,7 +381,7 @@ How to use:
 This enables focused analysis of how specific foods drive environmental impact and dietary change.
 
 ---
-**📚 6. Verify All Data on Page 4 — Sources & Methodology**
+**📚 5. Verify All Data on Page 4 — Sources & Methodology**
 
 Every metric in the dashboard is fully documented on the Sources page, including:
 
