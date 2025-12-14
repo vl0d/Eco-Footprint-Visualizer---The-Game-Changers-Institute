@@ -13,8 +13,6 @@ The tool translates food consumption data into five core environmental dimension
 
     🐾 Animal Lives Impacted
 
-    🌱 Biodiversity Pressure (land-based proxy)
-
 By connecting individual food choices to system-level environmental outcomes, the project enables users to:
 
 - Understand the real environmental cost of modern diets
